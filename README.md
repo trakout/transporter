@@ -5,8 +5,13 @@ Compose helps with database transformations from one store to another.  It can a
 Transporter
 ===========
 
+Last Successfully running with:
+- ElasticSearch v2.3.5
+- RethinkDB 2.3.5
+
 Build
 -----
+
 make sure godep is installed, `go get github.com/tools/godep` and then build with
 `godep restore`
 `godep go build -a ./cmd/...`

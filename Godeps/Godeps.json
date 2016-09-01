@@ -51,8 +51,7 @@
 		},
 		{
 			"ImportPath": "github.com/mattbaird/elastigo/lib",
-			"Comment": "v1.0-215-g8f8c8e8",
-			"Rev": "8f8c8e8cd26082435601a46b826c09e28f50d5ae"
+			"Rev": "34c4c4d8425cbdcbc8e257943a2044d5e9f7dab5"
 		},
 		{
 			"ImportPath": "github.com/mitchellh/cli",
